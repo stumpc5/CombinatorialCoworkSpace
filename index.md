@@ -15,6 +15,6 @@ $$\sqrt{17}$$
 
 $\sqrt{2}$
 
-{% for day in site.days%}
-{{ day.content}}
+{% for topic in site.topics%}
+{{ topic.content}}
 {% endfor %}

@@ -1,6 +1,6 @@
-name: Combinatorial Coworkspace Blog
+name: Combinatorial Coworkspace @ Haus Bergkranz 2020
 title: null
 collections:
-    days:
+    topics:
         output: false
 
