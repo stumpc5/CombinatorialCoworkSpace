@@ -1,4 +1,9 @@
+---
+---
+
 {% include mathjax.html %}
+
+
 
 # Day 1
 
@@ -10,3 +15,6 @@ $$\sqrt{2}$$
 
 $\sqrt{2}$
 
+{% for day in site.days%}
+{{ day.content}}
+{% endfor %}

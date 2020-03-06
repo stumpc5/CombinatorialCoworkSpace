@@ -1,2 +1,6 @@
 name: Combinatorial Coworkspace Blog
 title: null
+collections:
+    days:
+        output: false
+
