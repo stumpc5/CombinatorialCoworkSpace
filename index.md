@@ -11,9 +11,8 @@
 
 The combinatorial coworkspace takes place here.
 
-$$\sqrt{17}$$
-
-$\sqrt{2}$
+Be aware that 
+$$\sqrt{17} \neq \sqrt{2}.$$
 
 {% for topic in site.topics%}
 {{ topic.content}}
